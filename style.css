@@ -1,0 +1,96 @@
+.sidebar{
+    width: 17vw;
+    height: 90vh;
+    
+
+}
+.mainbar{
+    width: 85vw;
+    max-height: 90vh;
+    overflow-y: scroll;
+
+}
+.mainfirst1{
+  width: 60vw;
+}
+.mainfirst2{
+    width: 30vw;
+    position: relative;
+}
+
+
+
+/* .mainlower{
+    height: 300px;
+
+} */
+
+.box1{
+    width:80vw ;
+}
+.rectangle{
+    display:block;
+    height:130px;
+    width:250px;
+    background:rgb(182, 94, 241);
+    position:relative;
+    margin-top:27px;
+    border-radius: 7px;
+  }
+  
+  .circle{
+    position:absolute;
+    height:80px;
+    width:80px;
+    border-radius:40px;
+    border:7px solid rgb(255, 255, 255);
+    left:50%;
+    margin-left:-38px;
+    top: -20px;
+      background:rgb(182, 94, 241);
+  }
+     
+.bar{
+    height: 5px;
+}
+
+/* .boxes{
+    height: 820px;
+    width: 80vw;
+} */
+
+.lefttbox{
+    height: 420px;
+    width: 40%;
+}
+
+
+.righttbox{
+    width:60% ;
+    height: 390px;
+
+}
+.oneone{
+    width: 600px;
+}
+.bottombox{
+    height: 200px;
+    width:97% ;
+
+}
+
+.firstmodule{
+    height: 900px;
+}
+
+.bigbox{
+    height: 500px;
+}
+
+.rocketimg{
+    height: 230px;
+    width: 230px;
+}
+#hellow{
+    display: block;
+}
